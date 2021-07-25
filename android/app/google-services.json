@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574219385937",
+    "project_id": "splahs-firebase",
+    "storage_bucket": "splahs-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574219385937:android:6b38cfb24d00c864b14c70",
+        "android_client_info": {
+          "package_name": "com.example.splash_and_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574219385937-hbpjn0f4cr4hhkf6k1mcmjio45ed2rbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzluqp6xi-sF3k1peqFF0Edf8QlzbVcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574219385937-hbpjn0f4cr4hhkf6k1mcmjio45ed2rbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
