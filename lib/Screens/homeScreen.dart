@@ -158,7 +158,7 @@ class _DashBoardPageState extends State<DashBoardPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.green,
+      backgroundColor: Colors.green[300],
       appBar: AppBar(
         title: Text('DashBoard'),
         actions: [
